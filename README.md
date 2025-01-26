@@ -1,5 +1,6 @@
 # try-on-flux
 The simplest tryon pipeline!!!
+几乎是最简单的换装算法流程！！！
 * The pipeline is based on flux.1-fill-dev and flux.1-redux-dev. No additional training process required.
 * To run this pipeline, you'd better prepare a graphics card with more than 32g of video memory, such as v100-32g, a100-40g, a100-80g.
 
