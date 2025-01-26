@@ -9,7 +9,7 @@ The simplest tryon pipeline!!!
 1. Clone the repository
 
 ```sh
-git clone xxx
+git clone https://github.com/kawakuboJin/Tryon-Flux
 ```
 
 2. Create a conda environment and install the required packages
